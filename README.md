@@ -5,4 +5,5 @@
 <br/>
 <img src="https://github.com/ZeroShiro/timeClick/blob/master/icon.jpeg" width="200" height="200" alt=""/><br/>
 <img src="https://github.com/ZeroShiro/timeClick/blob/master/ui.jpeg" width="350" height="750" alt=""/><br/>
-
+<img src="https://github.com/ZeroShiro/timeClick/blob/master/test.jpg" width="350" height="750" alt=""/><br/>
+<img src="https://github.com/ZeroShiro/timeClick/blob/master/kfz.jpg" width="350" height="750" alt=""/><br/>
